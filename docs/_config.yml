@@ -39,7 +39,7 @@ footer:
 
 about:
   column1: I'm a father of two kids, two cats and at the same time a software engineer. I'm particularly interested in resilient systems, software architecture and microservices.
-  column2: I had experience in different stacks over the 20 years and my main working stack is kotlin and Spring Boot. (Although I still prefer Python and C in my personal projects)
+  column2: I had experience in different stacks over the 20 years and my main working stack is Kotlin and Spring Boot. (Although I still prefer Python and C in my personal projects)
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter

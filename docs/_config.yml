@@ -10,6 +10,7 @@ meta_author: Kalaycioglu Alper
 # Google webmaster tools
 google_verify:
 google_analytics: G-J1HSHLLRJ9
+google_tag_manager: GTM-MSJ39RP
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
